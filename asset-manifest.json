@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youritsoft-frontend/static/css/main.1cc50dca.css",
+    "main.js": "/youritsoft-frontend/static/js/main.c5b2c8ad.js",
+    "index.html": "/youritsoft-frontend/index.html",
+    "main.1cc50dca.css.map": "/youritsoft-frontend/static/css/main.1cc50dca.css.map",
+    "main.c5b2c8ad.js.map": "/youritsoft-frontend/static/js/main.c5b2c8ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cc50dca.css",
+    "static/js/main.c5b2c8ad.js"
+  ]
+}
